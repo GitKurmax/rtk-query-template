@@ -1,0 +1,53 @@
+{
+  "pokemons": [
+    {
+      "id": "ability",
+      "ability": "https://pokeapi.co/api/v2/ability/",
+      "deleted": false
+    },
+    {
+      "id": "berry",
+      "berry": "https://pokeapi.co/api/v2/berry/",
+      "deleted": false
+    },
+    {
+      "id": "berry-firmness",
+      "berry-firmness": "https://pokeapi.co/api/v2/berry-firmness/",
+      "deleted": false
+    },
+    {
+      "id": "berry-flavor",
+      "berry-flavor": "https://pokeapi.co/api/v2/berry-flavor/",
+      "deleted": false
+    },
+    {
+      "id": "characteristic",
+      "characteristic": "https://pokeapi.co/api/v2/characteristic/",
+      "deleted": false
+    },
+    {
+      "id": "contest-effect",
+      "contest-effect": "https://pokeapi.co/api/v2/contest-effect/"
+    },
+    {
+      "id": "contest-type",
+      "contest-type": "https://pokeapi.co/api/v2/contest-type/",
+      "deleted": false
+    },
+    {
+      "id": "egg-group",
+      "egg-group": "https://pokeapi.co/api/v2/egg-group/",
+      "deleted": false
+    },
+    {
+      "id": "encounter-condition",
+      "encounter-condition": "https://pokeapi.co/api/v2/encounter-condition/",
+      "deleted": false
+    },
+    {
+      "id": "encounter-condition-value",
+      "encounter-condition-value": "https://pokeapi.co/api/v2/encounter-condition-value/",
+      "deleted": false
+    }
+  ]
+}

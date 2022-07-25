@@ -1,3 +1,3 @@
 export type Pokemon = {
-    [key: string]: string
+    [name: string]: string | boolean,
 }
